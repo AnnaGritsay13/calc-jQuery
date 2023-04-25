@@ -1,4 +1,4 @@
-#Сalculator
+Сalculator
 
 This project is made using jQuery library.
 
