@@ -8,3 +8,5 @@
 ```js 
 val(), eval() and substring()
 ```
+
+https://annagritsay13.github.io/calc-jQuery/
