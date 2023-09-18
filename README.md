@@ -1,10 +1,10 @@
-Сalculator
+Калькулятор
 
-This project is made using jQuery library.
+Этот проект выполнен с использованием библиотеки jQuery.
 
-Using the **jQuery** syntax in the **.js** file, we access the **HTML** elements, which greatly simplifies the code.
+Используя синтаксис jQuery в файле .js, мы получаем доступ к элементам HTML, что значительно упрощает код.
 
-I also used jQuery library methods such as: 
+Я также использовала методы библиотеки jQuery, такие как:
 ```js 
 val(), eval() and substring()
 ```
